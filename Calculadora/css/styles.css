@@ -1,0 +1,24 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+#hero{
+    background-color: #12a0cc;
+}
+
+.imagen-calculadora{
+    height: 300px;
+}
+
+.imagen-contenedor{
+    height: 300px;
+
+}
+.titulo{
+    width: 50px;
+}
+
+div{
+    display: flex;
+}
