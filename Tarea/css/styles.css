@@ -1,0 +1,61 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.contenedor-botones{
+    display: flex;
+    height: 70px;
+    width: 100%;
+    background-color: darkmagenta;
+}
+
+button{
+    margin:15px 10px ;
+    padding: 5px;
+    width: 100px;
+    height: 60%;
+    background-color: rgb(224, 224, 135);
+}
+
+#hero{
+    background-color: #12a0cc;
+    display: flex;
+    width: 100%;
+    
+}
+.invisible{
+    margin:5px 100px
+}
+
+.contenedor-texto{
+    margin:5px 5px ;
+    padding: 5px;
+    width: 350px;
+    height: 400px;
+    background-color: rgb(211, 205, 125);
+}
+
+.logoimg{
+    margin:5px 5px ;
+    padding: 0px;
+    width: 350px;
+    height: 400px;
+
+}
+
+.titulo{
+    color: red;
+}
+
+.contenedor{
+    background-color: red;
+    width: 100%;
+    height: 40px;
+}
+
+.parrafo-final{
+    
+    color: white;
+}
+
