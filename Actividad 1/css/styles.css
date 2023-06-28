@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section{
+    background-color: aqua;
+}
+
+.header{
+    height: 50px;
+    display: flex;
+    background-color: blueviolet;
+    padding: 1%;
+}
+
+.header-botton{
+    margin: 10px;
+    background-color: yellow;
+}
+
+.content{
+    display: flex;
+    margin: 1% 12%;
+}
+
+.left-container{
+    width: 400px;
+    background-color: blanchedalmond;
+    margin-right: 3%;
+}
+
+.title, 
+.subtitle,
+.text{
+    margin: 5% 5%;
+}
+
+.title{
+    color: red;
+}
+
+.subtitle{
+    color: blue;
+}
+
+.imagen-container{
+    width: 400px;
+    background-color: aquamarine;
+    justify-content: center;
+    display: flex;
+}
+
+.image{
+    width: 400px;
+}
+
+.footer{
+    height: 100px;
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+}
